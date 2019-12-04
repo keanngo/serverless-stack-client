@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+    .Money {
+      padding: 60px 0;
+    }
+  
+    .Money form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+
+body {
+	overflow: hidden;
+	margin: 0;
+  background: linear-gradient(to bottom, skyblue, dodgerblue);
+}

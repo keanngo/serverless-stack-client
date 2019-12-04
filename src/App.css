@@ -2,6 +2,7 @@
   margin-top: 15px;
 }
 
-.App .navbar-brand {
+.App .navbar-brand{
   font-weight: bold;
+  padding-right:30px;
 }
